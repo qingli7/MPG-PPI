@@ -1,2 +1,2 @@
 # MPG-PPI
-Multi-scale Protein Graph Model for Protein-Protein Interaction
+Multi-scale Protein Graph for Protein-Protein Interaction
